@@ -7,8 +7,8 @@ To play:
   - change directories to filepath for "main.py" and "images" folder location
   - type "python main.py" into command prompt
   
-  Controls:
-    - left/right arrows move left and right
-    - +/- adjust power
-    - up/down change angle of fire (note that controls are reversed for red player)
-    - escape exits the game
+Controls:
+  - left/right arrows move left and right
+  - +/- keys adjust power
+  - up/down arrows change angle of fire (note that controls are reversed for red player)
+  - escape exits the game
